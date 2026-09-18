@@ -1,24 +1,22 @@
-{
-  "sources": [
+[
     {
-      "name": "肥猫",
-      "url": "https://raw.githubusercontent.com/fw1509-tech/tvbox-ysc-config/main/output/feimao.json"
+        "name": "肥猫",
+        "url": "https://raw.githubusercontent.com/fw1509-tech/tvbox-ysc-config/main/output/feimao.json"
     },
     {
-      "name": "王二小",
-      "url": "https://raw.githubusercontent.com/fw1509-tech/tvbox-ysc-config/main/output/wangerxiao.json"
+        "name": "王二小",
+        "url": "https://raw.githubusercontent.com/fw1509-tech/tvbox-ysc-config/main/output/wangerxiao.json"
     },
     {
-      "name": "讴歌",
-      "url": "https://raw.githubusercontent.com/fw1509-tech/tvbox-ysc-config/main/output/ouge.json"
+        "name": "讴歌",
+        "url": "https://raw.githubusercontent.com/fw1509-tech/tvbox-ysc-config/main/output/ouge.json"
     },
     {
-      "name": "4K小盒子",
-      "url": "https://raw.githubusercontent.com/fw1509-tech/tvbox-ysc-config/main/output/4k.json"
+        "name": "4K小盒子",
+        "url": "https://raw.githubusercontent.com/fw1509-tech/tvbox-ysc-config/main/output/4k.json"
     },
     {
-      "name": "高清直播",
-      "url": "https://fastly.jsdelivr.net/gh/fw1509-tech/tvbox-ysc-config@main/config/lives.json"
+        "name": "高清直播",
+        "url": "https://fastly.jsdelivr.net/gh/fw1509-tech/tvbox-ysc-config@main/config/lives.json"
     }
-  ]
-}
+]
