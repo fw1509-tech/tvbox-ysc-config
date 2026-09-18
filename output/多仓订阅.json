@@ -1,24 +1,24 @@
 {
-    "storeHouse": [
+    "urls": [
         {
-            "sourceName": "肥猫",
-            "sourceUrl": "https://fastly.jsdelivr.net/gh/fw1509-tech/tvbox-ysc-config@main/output/feimao.json"
+            "name": "肥猫",
+            "url": "https://fastly.jsdelivr.net/gh/fw1509-tech/tvbox-ysc-config@main/output/feimao.json"
         },
         {
-            "sourceName": "王二小",
-            "sourceUrl": "https://fastly.jsdelivr.net/gh/fw1509-tech/tvbox-ysc-config@main/output/wangerxiao.json"
+            "name": "王二小",
+            "url": "https://fastly.jsdelivr.net/gh/fw1509-tech/tvbox-ysc-config@main/output/wangerxiao.json"
         },
         {
-            "sourceName": "讴歌",
-            "sourceUrl": "https://fastly.jsdelivr.net/gh/fw1509-tech/tvbox-ysc-config@main/output/ouge.json"
+            "name": "讴歌",
+            "url": "https://fastly.jsdelivr.net/gh/fw1509-tech/tvbox-ysc-config@main/output/ouge.json"
         },
         {
-            "sourceName": "4K小盒子",
-            "sourceUrl": "https://fastly.jsdelivr.net/gh/fw1509-tech/tvbox-ysc-config@main/output/4k.json"
+            "name": "4K小盒子",
+            "url": "https://fastly.jsdelivr.net/gh/fw1509-tech/tvbox-ysc-config@main/output/4k.json"
         },
         {
-            "sourceName": "高清直播",
-            "sourceUrl": "https://fastly.jsdelivr.net/gh/fw1509-tech/tvbox-ysc-config@main/config/lives.json"
+            "name": "高清直播",
+            "url": "https://fastly.jsdelivr.net/gh/fw1509-tech/tvbox-ysc-config@main/config/lives.json"
         }
     ]
 }
