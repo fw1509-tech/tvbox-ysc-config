@@ -1,15 +1,19 @@
 {
   "lives": [
     {
-      "name": "电视直播",
+      "name": "央视频道",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-      "epg": "https://epg.aptv.app/pp.xml.gz",
-      "ua": "AptvPlayer-UA"
+      "urls": [
+        "https://valid-live-url1.m3u8",
+        "https://valid-live-url2.m3u8"
+      ]
+    },
+    {
+      "name": "卫视频道",
+      "type": 0,
+      "urls": [
+        "https://valid-live-url3.m3u8"
+      ]
     }
-  ],
-  "backup_pool": [
-    "https://raw.githubusercontent.com/zwc456baby/iptv_alive/refs/heads/master/live.m3u",
-    "https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8"
   ]
 }
