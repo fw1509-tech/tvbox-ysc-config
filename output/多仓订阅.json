@@ -18,7 +18,7 @@
     },
     {
       "name": "高清直播",
-      "url": "https://cdn.jsdelivr.net/gh/fw1509-tech/tvbox-ysc-config@main/config/lives.json"
+      "url": "https://fastly.jsdelivr.net/gh/fw1509-tech/tvbox-ysc-config@main/config/lives.json"
     }
   ]
 }
