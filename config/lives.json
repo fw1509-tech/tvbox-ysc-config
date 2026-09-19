@@ -1,24 +1,19 @@
 {
     "lives": [
         {
-            "name": "YanG高清直播",
+            "name": "央视IPV4",
             "type": "live",
-            "url": "https://tv.ill.top/m3u/Gather"
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/cctv.m3u"
         },
         {
-            "name": "vbskycn全国卫视IPv4",
+            "name": "卫视IPV4",
             "type": "live",
-            "url": "https://live.zbds.org/tv/iptv4.m3u"
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/ws.m3u"
         },
         {
-            "name": "myIPTV卫视合集",
+            "name": "特色影视独立频道",
             "type": "live",
-            "url": "https://cdn.jsdelivr.net/gh/suxuang/myIPTV@refs/heads/main/ipv4.m3u"
-        },
-        {
-            "name": "Fanmingming特色影视(IPv6)",
-            "type": "live",
-            "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u"
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/movie.m3u"
         }
     ]
 }
