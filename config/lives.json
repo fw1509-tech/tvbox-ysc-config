@@ -1,19 +1,9 @@
 {
     "lives": [
         {
-            "name": "央视IPV4",
+            "name": "全频道聚合(IPV4)",
             "type": "live",
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/cctv.m3u"
-        },
-        {
-            "name": "卫视IPV4",
-            "type": "live",
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/ws.m3u"
-        },
-        {
-            "name": "特色影视独立频道",
-            "type": "live",
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/movie.m3u"
+            "url": "https://live.zbds.top/tv/iptv4.m3u"
         }
     ]
 }
